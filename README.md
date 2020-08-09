@@ -1,3 +1,3 @@
 # Conways-Game-of-Life
 
-# This program was my attempt at recreating John Conway's game of life.
+# This program is a recreation of John Conway's game of life.
